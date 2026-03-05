@@ -1,2 +1,2 @@
-# AI-Based-Drowsiness-Detection-System-using-Decision-Tree-and-KNN
+# AI-Based-Drowsiness-Detection-System
 It is a system that predicts the drowsiness of a person using AI through EAR(Eye Aspect Ratio)
